@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "Fancontrol Settings inStandby Mode",
+  "description_recipe": "Fancontrol Settings inStandby Mode",
+  "history_source_dir": "SimpleFancontrol",
+  "internal_package_name": "enigma2-plugin-systemplugins-fancontrol",
+  "module_dir_name": "SimpleFancontrol",
+  "output_subdir": "SimpleFancontrol",
+  "package_name": "enigma2-plugin-systemplugins-fancontrol-simple-fancontrol",
+  "plugin_src_rel": "SimpleFancontrol",
+  "python_package": "SimpleFancontrol",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "SimpleFancontrol",
+  "rrecommends": "",
+  "rreplaces": ""
+}
