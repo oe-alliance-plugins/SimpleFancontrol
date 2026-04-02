@@ -1,7 +1,7 @@
 from setuptools import setup
 import setup_translate
 
-pkg = 'SystemPlugins.SimpleFancontrol'
+pkg = 'SystemPlugins.FanControl'
 setup(name='enigma2-plugin-systemplugins-fancontrol',
        version='3.0',
        description='Fancontrol Settings inStandby Mode',
