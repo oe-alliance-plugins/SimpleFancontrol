@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from Screens.Screen import Screen
 from Components.ConfigList import ConfigListScreen
-from Components.config import config, ConfigSubsection, ConfigInteger, ConfigSelection, getConfigListEntry
+from Components.config import config, ConfigSubsection, ConfigSelection, getConfigListEntry
 
 modelist = {"off": _("Off"), "on": _("On")}
 
@@ -77,7 +77,7 @@ def applySettings(mode):
 		file = open("/proc/stb/fp/fan", "w")
 		file.write('%s' % mode)
 		file.close()
-	except:
+	except OSError:
 		return
 
 
