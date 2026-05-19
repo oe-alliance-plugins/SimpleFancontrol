@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:01+0430\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2024-09-23 00:06+0300\n"
 "Last-Translator: Viacheslav Dikonov <sdiconov@mail.ru>\n"
 "Language-Team: OpenATV\n"
@@ -16,30 +16,39 @@ msgstr ""
 "X-Generator: Poedit 3.3.2\n"
 "X-Poedit-SourceCharset: iso-8859-15\n"
 
+#: ../plugin.py:31
 msgid "Cancel"
 msgstr "Отмена"
 
+#: ../plugin.py:102
 msgid "FAN Control"
 msgstr "Вентилятор"
 
+#: ../plugin.py:111
 msgid "Fan Control"
 msgstr "Управление вентилятором"
 
+#: ../plugin.py:49
 msgid "Fan mode"
 msgstr "Режим вентилятора"
 
+#: ../plugin.py:26
 msgid "Fan setup"
 msgstr "Настройка вентилятора"
 
+#: ../plugin.py:6
 msgid "Off"
 msgstr "Выкл"
 
+#: ../plugin.py:6
 msgid "On"
 msgstr "Вкл"
 
 #
+#: ../plugin.py:32
 msgid "Save"
 msgstr "Сохранить"
 
+#: ../plugin.py:111
 msgid "switch Fan On/Off"
 msgstr "включить/выключить вентилятор"

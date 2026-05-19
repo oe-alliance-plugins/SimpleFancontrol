@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:01+0430\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2016-05-07 14:09+0200\n"
 "Last-Translator: neoatomic <neoatomic@users.noreply.github.com>\n"
 "Language-Team: none\n"
@@ -16,30 +16,39 @@ msgstr ""
 "X-Generator: Poedit 1.8.7\n"
 "X-Poedit-SourceCharset: iso-8859-1\n"
 
+#: ../plugin.py:31
 msgid "Cancel"
 msgstr ""
 
+#: ../plugin.py:102
 msgid "FAN Control"
 msgstr ""
 
+#: ../plugin.py:111
 msgid "Fan Control"
 msgstr ""
 
+#: ../plugin.py:49
 msgid "Fan mode"
 msgstr ""
 
+#: ../plugin.py:26
 msgid "Fan setup"
 msgstr ""
 
+#: ../plugin.py:6
 msgid "Off"
 msgstr ""
 
+#: ../plugin.py:6
 msgid "On"
 msgstr ""
 
 #
+#: ../plugin.py:32
 msgid "Save"
 msgstr "Guardar"
 
+#: ../plugin.py:111
 msgid "switch Fan On/Off"
 msgstr ""
